@@ -98,7 +98,7 @@ This is a portfolio project. Feel free to fork and customize!
 
 **Shobhit Pandey**
 - Email: techslave19@gmail.com
-- GitHub: [Your GitHub Profile]
+- GitHub: shobhit2712
 
 ## License
 
